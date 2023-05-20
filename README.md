@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dalaikuu
 - 👀 I’m interested in Foods
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning MERN-stack
 - 📫 How to reach me dd4184968@gmail.com
 
 <!---

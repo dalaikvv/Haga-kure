@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Haga-kure
 - 👀 I’m interested in Foods
 - 🌱 I’m currently learning 
-- 📫 How to reach me idk
+- 📫 How to reach me dd4184968@gmail.com
 
 <!---
 Haga-kure/Haga-kure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

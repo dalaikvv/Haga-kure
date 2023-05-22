@@ -1,4 +1,5 @@
-* 👋 Hi, I’m @Dalaikuu
+![_](https://user-images.githubusercontent.com/115783509/228468397-c63c9dbf-f318-4a64-943e-79ec95264d58.jpeg)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dalaihuu
 * 💻 I’m Pinecone LLC Student
 *  🌍  I'm based in Mongolia
 * 👀 I’m interested in Foods
@@ -12,8 +13,7 @@ Haga-kure/Haga-kure is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![_](https://user-images.githubusercontent.com/115783509/228468397-c63c9dbf-f318-4a64-943e-79ec95264d58.jpeg)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aerhhj
+
 ==============================================================================================================================
 
 Web developer

@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Dalaikuu
-- 💻 I’m Pinecone LLC Student
-- 👀 I’m interested in Foods
-- 🌱 I’m currently learning MERN-stack
-- 📫 How to reach me dd4184968@gmail.com
+* 👋 Hi, I’m @Dalaikuu
+* 💻 I’m Pinecone LLC Student
+*  🌍  I'm based in Mongolia
+* 👀 I’m interested in Foods
+* 🌱 I’m currently learning MERN-stack
+* 📫 How to reach me dd4184968@gmail.com
+*   ✉️  You can contact me at [dd4184968@gmail.com](mailto:dd4184968@gmail.com)
+*   🚀  I'm currently working on [Hotel Merit](http://merit-d3av8yobw-merit.vercel.app/)
 
 <!---
 Haga-kure/Haga-kure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +18,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web developer
 -------------
-
 I'm Pinecone LLC student
 
-*   🌍  I'm based in Mongolia
-*   ✉️  You can contact me at [dd4184968@gmail.com](mailto:dd4184968@gmail.com)
-*   🚀  I'm currently working on [Hotel Merit](http://merit-d3av8yobw-merit.vercel.app/)
-*   🧠  I'm learning MERN-Stack
-*   🤝  I'm open to collaborating on Projects### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>

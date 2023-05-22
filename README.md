@@ -45,6 +45,6 @@ I'm Pinecone LLC student
 </p>
 
 
-### Badges<b>My GitHub Stats</b>
+### Badges   <b>My GitHub Stats</b>
 <a href="https://github.com/Haga-kure" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haga-kure&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="http://www.github.com/Haga-kure"><img src="https://github-readme-stats.vercel.app/api?username=Haga-kure&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="Haga-kure's GitHub stats" /></a><a href="http://www.github.com/Haga-kure"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Haga-kure&bg_color=27272a&color=ffffff&line=3382ed&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

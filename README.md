@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *  🌍  I'm based in Mongolia
 * 👀 I’m interested in Foods
 * 🌱 I’m currently learning MERN-stack
-* 📫 How to reach me dd4184968@gmail.com
 *   ✉️  You can contact me at [dd4184968@gmail.com](mailto:dd4184968@gmail.com)
 *   🚀  I'm currently working on [Hotel Merit](http://merit-d3av8yobw-merit.vercel.app/)
 

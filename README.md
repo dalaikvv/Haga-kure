@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dalaihuu
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ocean
 * 💻 I’m Pinecone LLC Student
-*  🌍  I'm based in Mongolia
+* 🌍 I'm based in Mongolia
 * 👀 I’m interested in Foods
-* 🌱 I’m currently learning MERN-stack
+* 🌱 I’m currently learning AngularJS
 *   ✉️  You can contact me at [dd4184968@gmail.com](mailto:dd4184968@gmail.com)
-*   🚀  I'm currently working on [Hotel Merit](http://merit-d3av8yobw-merit.vercel.app/)
 
 <!---
 Haga-kure/Haga-kure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
